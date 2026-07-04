@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biblioteca Popular
 
 Sistema simples de gerenciamento de acervo para uma biblioteca publica municipal.
@@ -65,3 +66,7 @@ Aplicamos o que foi visto em aula:
 - Listas e dicionarios
 - Leitura e escrita de arquivos com `open()`
 - Tratamento basico de erros com `try/except`
+=======
+# Programa-o-1
+biblioteca terminal
+>>>>>>> e8b151e9d17e19773506969d35e2fe7c42300982
