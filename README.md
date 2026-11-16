@@ -2,7 +2,7 @@
 # Biblioteca Popular
 
 Sistema simples de gerenciamento de acervo para uma biblioteca publica municipal.
-Feito em Python puro, sem dependencias externas.
+Feito em Java puro, sem dependencias externas.
 
 ---
 
