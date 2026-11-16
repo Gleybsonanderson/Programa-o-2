@@ -11,6 +11,7 @@ Feito em Python puro, sem dependencias externas.
 - Miguel Vinícius Messias Da Silva
 - Gleybson Anderson da Silva Nascimento
 - André Luís Freitas de Santana
+- Davi Nycholas
 
 ---
 
